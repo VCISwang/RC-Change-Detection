@@ -1,5 +1,5 @@
 # RC-Change-Detection
-This is the official PyTorch implementation of our TGRS 2022 paper(Under Review):
+This is the official PyTorch implementation of our TGRS 2022 paper:
 
 《Reliable Contrastive Learning for Semi-supervised Change Detection in Remote Sensing Images》
 
